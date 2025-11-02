@@ -26,32 +26,3 @@ I am mostly working on projects related to web development but am curious about 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revo2123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🎯 Current Projects
-
-- 🚧 **[Songrating](https://https://github.com/revo2123/songrating_frontend)** - An application for rating songs
-- 🚧 **[VideoJs Hotkeys](https://https://github.com/revo2123/VideoJsHotkeys-Extension)** - A browser extension that adds hotkeys to VideoJs players
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-**Feel free to reach out if you want to collaborate on something interesting!**
-
-⭐️ **If you find my work interesting, consider giving some repos a star!**
-
-</div>
